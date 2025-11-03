@@ -1,9 +1,6 @@
 {
   "name": "moorefit40-homepage",
   "private": true,
- {
-  "name": "moorefit40-homepage",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
